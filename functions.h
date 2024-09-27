@@ -1,4 +1,5 @@
 #include <string> 
+using namespace std;
 
 double fraction(double x);              // Объявление функции для нахождения дробной части числа
 int charToNum(char x);                  // Объявление функции для преобразования символа в число
