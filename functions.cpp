@@ -2,8 +2,6 @@
 #include <sstream>
 #include <iostream> // Необходимо для вывода
 #include <cstdlib>  // Необходимо для rand() и srand()
-#include <ctime>    // Необходимо для time()
-#include <vector>   // Необходимо для использования std::vector
 using namespace std;
 
 double fraction(double x) {
