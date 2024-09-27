@@ -1,5 +1,4 @@
 #include "functions.h"
-#include <sstream>  // Необходимо для использования std::ostringstream"
 #include <iostream> // Необходимо для вывода
 #include <cstdlib>  // Необходимо для rand() и srand()
 #include <ctime>    // Необходимо для time()
