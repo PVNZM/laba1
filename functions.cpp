@@ -1,4 +1,5 @@
 #include "functions.h"
+#include <sstream>
 #include <iostream> // Необходимо для вывода
 #include <cstdlib>  // Необходимо для rand() и srand()
 #include <ctime>    // Необходимо для time()
